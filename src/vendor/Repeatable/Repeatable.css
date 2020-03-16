@@ -1,0 +1,19 @@
+.Row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.Item {
+    width: 100%;
+}
+
+.ItemControls {
+    align-self: center;
+    box-sizing: border-box;
+    padding-left: 25px;
+}
+
+.Controls {
+    text-align: right;
+}
