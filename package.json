@@ -19,7 +19,7 @@
     "datejs": "0.0.2",
     "formik": "^1.4.2",
     "fullcalendar": "^3.6.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "material-ui-pickers": "^2.1.1",
     "material-ui-repeatable": "^1.1.1",
     "moment": "^2.21.0",
