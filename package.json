@@ -49,7 +49,7 @@
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "3.0.7",
     "jsdoc": "^3.5.5",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "plato": "^1.5.0",
     "react-svg-loader": "^2.1.0",
     "sass-loader": "^7.1.0",
